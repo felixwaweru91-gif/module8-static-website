@@ -12,4 +12,4 @@ jobs:
     steps:
       - name: Check website status
         run: |
-          curl -f https://felixwaweru91-gif.github.io/module8-static-website/ || exit 1
+          curl -f https://wrong-url-test-123.com || exit 1
